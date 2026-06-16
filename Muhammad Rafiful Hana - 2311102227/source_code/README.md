@@ -5,7 +5,7 @@
 
 <br>
 <p align="center">
-  <img src="output/logo telkom university.png" width="150"/>
+  <img src="https://raw.githubusercontent.com/Aplikasi-Berbasis-Platform-S1IF-11-04/Pertemuan-9-Mobile/refs/heads/main/Muhammad%20Rafiful%20Hana%20-%202311102227/source_code/output/logo%20telkom%20university.png" width="150"/>
 </p>
 <br>
 
@@ -675,7 +675,7 @@ Digunakan untuk menampilkan:
 
 ### Output 1 - Ambil Foto (Camera API)
 
-<img src="output/Output%201.jpeg" width="250">
+<img src="https://raw.githubusercontent.com/Aplikasi-Berbasis-Platform-S1IF-11-04/Pertemuan-12-Mobile/main/Muhammad%20Rafiful%20Hana%20-%202311102227/source_code/output/Output%201.jpeg" width="250">
 
 Foto berhasil diambil menggunakan kamera perangkat.
 
@@ -683,6 +683,6 @@ Foto berhasil diambil menggunakan kamera perangkat.
 
 ### Output 2 - Pilih Foto (Gallery API)
 
-<img src="output/Output%202.jpeg" width="250">
+<img src="https://raw.githubusercontent.com/Aplikasi-Berbasis-Platform-S1IF-11-04/Pertemuan-12-Mobile/main/Muhammad%20Rafiful%20Hana%20-%202311102227/source_code/output/Output%202.jpeg" width="250">
 
 Foto berhasil dipilih dari galeri perangkat.
