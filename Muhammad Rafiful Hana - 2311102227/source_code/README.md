@@ -675,7 +675,7 @@ Digunakan untuk menampilkan:
 
 ### Output 1 - Ambil Foto (Camera API)
 
-<img src="output/output%201.jpeg" width="250">
+<img src="output/Output%201.jpeg" width="250">
 
 Foto berhasil diambil menggunakan kamera perangkat.
 
@@ -683,6 +683,6 @@ Foto berhasil diambil menggunakan kamera perangkat.
 
 ### Output 2 - Pilih Foto (Gallery API)
 
-<img src="output/output%202.jpeg" width="250">
+<img src="output/Output%202.jpeg" width="250">
 
 Foto berhasil dipilih dari galeri perangkat.
